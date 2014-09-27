@@ -1,0 +1,20 @@
+{
+  "name": "cs99si-scraper",
+  "version": "0.0.0",
+  "description": "Reddit image scraper",
+  "main": "main.js",
+  "dependencies": {
+    "cheerio": "~0.12.1",
+    "mime": "~1.2.11",
+    "request": "~2.27.0"
+  },
+  "devDependencies": {},
+  "repository": "",
+  "keywords": [
+    "Reddit",
+    "image",
+    "scraper"
+  ],
+  "contributors": ["Karthik Viswanathan", "Vivek Nair"],
+  "license": "MIT"
+}
